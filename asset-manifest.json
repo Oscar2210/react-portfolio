@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.1feed049.css",
+    "main.js": "/react-portfolio/static/js/main.36faa519.js",
+    "static/media/profile2.png": "/react-portfolio/static/media/profile2.36ce249a36324dadbf15.png",
+    "static/media/me.jpg": "/react-portfolio/static/media/me.b4fcaa959ba73c6e237f.jpg",
+    "static/media/portfolio2.jpg": "/react-portfolio/static/media/portfolio2.06a40b77cabb742f0529.jpg",
+    "static/media/portfolio6.jpg": "/react-portfolio/static/media/portfolio6.707897ddc9524c8a9a09.jpg",
+    "static/media/portfolio4.jpg": "/react-portfolio/static/media/portfolio4.44f7fa9b125e13d87b9c.jpg",
+    "static/media/portfolio5.jpg": "/react-portfolio/static/media/portfolio5.12793b283398becd60a3.jpg",
+    "static/media/portfolio1.jpg": "/react-portfolio/static/media/portfolio1.faa9814060adac0d5944.jpg",
+    "static/media/portfolio3.jpg": "/react-portfolio/static/media/portfolio3.5e1705f963e13a8576a6.jpg",
+    "static/media/bg2.png": "/react-portfolio/static/media/bg2.10f020ce58e10cc2acf1.png",
+    "static/media/CV.pdf": "/react-portfolio/static/media/CV.cd76206bc5dd564d3ceb.pdf",
+    "static/media/avatar2.jpg": "/react-portfolio/static/media/avatar2.073f32a491ab04f9670d.jpg",
+    "static/media/avatar3.jpg": "/react-portfolio/static/media/avatar3.23b25341f8d348257570.jpg",
+    "static/media/avatar1.jpg": "/react-portfolio/static/media/avatar1.b42a08ac523094b33843.jpg",
+    "static/media/avatar6.jpg": "/react-portfolio/static/media/avatar6.2c29c9001b9b5a578932.jpg",
+    "static/media/avatar4.jpg": "/react-portfolio/static/media/avatar4.26b15de2865243354f85.jpg",
+    "static/media/avatar5.jpg": "/react-portfolio/static/media/avatar5.adece60e13af4ccebb36.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.1feed049.css.map": "/react-portfolio/static/css/main.1feed049.css.map",
+    "main.36faa519.js.map": "/react-portfolio/static/js/main.36faa519.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1feed049.css",
+    "static/js/main.36faa519.js"
+  ]
+}
