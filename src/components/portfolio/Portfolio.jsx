@@ -18,9 +18,9 @@ const data = [
     {
         id: 2,
         image: IMG2,
-        title: 'News Web, Information about the world',
+        title: 'Chat App project with Google login',
         github: 'https://github.com/Oscar2210/',
-        demo: 'https://eltiempo.com'
+        demo: 'https://chat-app-8e15d.web.app/'
     },
     {
         id: 3,
