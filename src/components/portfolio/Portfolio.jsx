@@ -1,61 +1,61 @@
 import React from 'react';
 import './portfolio.css';
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
+//import IMG1 from '../../assets/portfolio1.jpg'
+//import IMG2 from '../../assets/portfolio2.jpg'
+import IMG3 from '../../assets/Pokedex.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.jpg'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG5 from '../../assets/pokeJS.jpeg'
+//import IMG6 from '../../assets/portfolio6.jpg'
 
 const data = [
-    {
-        id: 1,
-        image: IMG1,
-        title: 'Youtube Clone Web Site Project',
-        github: 'https://github.com/Oscar2210/',
-        demo: 'https://youtube.com'
-    },
-    {
-        id: 2,
-        image: IMG2,
-        title: 'Chat App project with Google login',
-        github: 'https://github.com/Oscar2210/',
-        demo: 'https://chat-app-8e15d.web.app/'
-    },
+    // {
+    //     id: 1,
+    //     image: IMG1,
+    //     title: 'Youtube Clone Web Site Project',
+    //     github: 'https://github.com/Oscar2210/youtube_clone',
+    //     demo: 'https://youtube.com'
+    // },
+    // {
+    //     id: 2,
+    //     image: IMG2,
+    //     title: 'Chat App project with Google login',
+    //     github: 'https://github.com/Oscar2210/',
+    //     demo: 'https://chat-app-8e15d.web.app/'
+    // },
     {
         id: 3,
         image: IMG3,
-        title: 'E-commerce, Shoes Store',
-        github: 'https://github.com/Oscar2210/',
-        demo: 'https://nike.com'
+        title: 'Pokedex => (ReactJS)',
+        github: 'https://github.com/Oscar2210/pokedexRJS',
+        demo: 'https://pokeapi1729.netlify.app/'
     },
     {
         id: 4,
         image: IMG4,
-        title: 'Technology Information, News and more',
-        github: 'https://github.com/Oscar2210/',
-        demo: 'https://enter.co'
+        title: 'Template Web News => (HTML,CSS).',
+        github: 'https://github.com/Oscar2210/NewsWeb',
+        demo: 'https://webnews1729.netlify.app/'
     },
     {
         id: 5,
         image: IMG5,
-        title: 'Trading web site, Finances',
+        title: 'Pokedex => (JS, HTML, CSS)',
         github: 'https://github.com/Oscar2210/',
-        demo: 'https://tradingview.com'
+        demo: 'https://pokedexjs2210.netlify.app/'
     },
-    {
-        id: 6,
-        image: IMG6,
-        title: 'Weather app',
-        github: 'https://github.com/Oscar2210/',
-        demo: 'https://www.accuweather.com/es/'
-    }
+    // {
+    //     id: 6,
+    //     image: IMG6,
+    //     title: 'Weather app',
+    //     github: 'https://github.com/Oscar2210/',
+    //     demo: 'https://www.accuweather.com/es/'
+    // }
 ]
 
 const Portfolio = () => {
     return (
         <section id='portfolio'>
-            <h5>My Recent Work</h5>
+            <h5>Mis Proyectos Personales</h5>
             <h2>Portfolio</h2>
 
             <div className='container portfolio_container'>
