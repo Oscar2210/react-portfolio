@@ -1,5 +1,5 @@
 import React from 'react'
-import { GrLinkedin, GrGithub, GrDribbble } from 'react-icons/gr'
+import { GrLinkedin, GrGithub } from 'react-icons/gr'
 
 const HeaderSocial = () => {
     return (
